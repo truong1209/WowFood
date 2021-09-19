@@ -138,3 +138,66 @@ body html
     text-decoration: none;
     color: #ff6b81;
 }
+.orderform
+{
+    background-image: url(https://i.pinimg.com/originals/05/a1/83/05a183f6611762f04fc60a9867e0c416.jpg);
+    background-size: cover;
+}
+.order
+{
+    width: 30%;
+    margin-left: 35%;
+}
+.orderform1
+{
+    border-radius: 10px;
+}
+.orderimg
+{
+    border-radius: 8%;
+    float: left;
+    width: 40%;
+    padding: 2%;
+    top:2px;
+    left: 2px;
+}
+.orderbox
+{
+    text-align: left;
+    margin-left: 60px;
+}
+.deliverydetail
+{
+    width: 30%;
+    margin-left: 35%;
+}
+.delivery
+{
+    border-radius: 10px;
+}
+.textarea
+{
+    resize: none;
+    width: 100%;
+    border-radius: 5px;
+}
+.input1
+{
+    width: 100%;
+    border-radius: 5px;
+}
+.quantity
+{
+    border-radius: 5px;
+}
+.title12
+{
+    text-align: center;
+    color: white;
+}
+.orderform
+{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
